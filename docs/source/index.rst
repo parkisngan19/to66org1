@@ -1,22 +1,16 @@
-Welcome to Lumache's documentation!
+To66 Org
 ===================================
 
-**Lumache** (/lu'make/) is a Python library for cooks and food lovers
-that creates recipes mixing random ingredients.
-It pulls data from the `Open Food Facts database <https://world.openfoodfacts.org/>`_
-and offers a *simple* and *intuitive* API.
+`To66 <http://to66.org/>`_ là một trong những cổng game bài đổi thưởng được yêu thích và tin dùng nhất hiện nay. Với thời gian hoạt động lâu dài, To66 đã trở thành điểm đến lý tưởng cho những người yêu thích thử vận may và đam mê các trò chơi bài online.
 
-Check out the :doc:`usage` section for further information, including
-how to :ref:`installation` the project.
+Liên hệ:
 
-.. note::
+Website : http://to66.org/
 
-   This project is under active development.
+Địa chỉ: 170 Trương Công Định, TP. Vũng Tàu, tỉnh Bà Rịa – Vũng Tàu
 
-Contents
---------
+Phone: 0877120832
 
-.. toctree::
+Post Code: 790000
 
-   usage
-   api
+#to66org #to66 #gamebaito66 #doithuongto66 #taiappto66
